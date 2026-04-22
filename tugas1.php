@@ -2,12 +2,12 @@
 
 class Pengunjung {
 
-    public static $jumlah = 5;
+    public static $jumlah = 0;
 
     public function __construct() {
         self::$jumlah++;
     }
-
+    
 }
 
 $p1 = new Pengunjung();
