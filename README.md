@@ -1,0 +1,2 @@
+# StaticFinal
+latihan
